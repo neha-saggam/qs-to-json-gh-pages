@@ -2,7 +2,7 @@
   "name": "qs-to-json-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nehasaggam.github.io/qs-to-json-gh-pages",
+  "homepage": "https://neha-saggam.github.io/qs-to-json-gh-pages/",
   "dependencies": {
     "qs-to-json": "^0.1.1",
     "react": "^16.8.6",
