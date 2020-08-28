@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://neha-saggam.github.io/qs-to-json-gh-pages/",
   "dependencies": {
-    "qs-to-json": "^0.1.1",
+    "qs-to-json": "^0.1.6",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.10",
     "react-dom": "^16.8.6",
